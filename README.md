@@ -1,8 +1,6 @@
 # shop_valorant_angular
 web e-commerce
 
-1. Install Angular Framework:
-
 . Download and install the Angular Framework by following the instructions on the official Angular website: angular.io.
   Replace Source File:
 
